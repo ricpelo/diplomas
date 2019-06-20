@@ -1,4 +1,4 @@
-Ayto. de Sanlúcar de Barrameda
+Excmo. Ayto. de Sanlúcar de Bda.
 Ecoprograma Gestión de Residuos, S.L.U.
 Ortopedia Médica Santa Inés, S.L.
 Rentel Wifi, S.L.
@@ -47,3 +47,6 @@ EJE Gestión Preventiva, S.L.
 GESACAP Consultores, S.L.
 Talleres Miguelín, S.L.
 Talleres Bustamante, S.L.
+Taller Cabrera
+Escuela de Pilotos de Jerez
+Hotel Guadalquivir
