@@ -39,7 +39,7 @@ CEIP Guadalquivir
 NERTA Prevención Laboral, S.L.
 SGC Tecnos S.A.
 Almusalud Prevención, S.L.
-Quiron Prevención S.L.
+Quirón Prevención S.L.
 Europreven, S.L.
 COINSE, S.A.
 Innova Prevención, S.L.
@@ -50,3 +50,6 @@ Talleres Bustamante, S.L.
 Taller Cabrera
 Escuela de Pilotos de Jerez
 Hotel Guadalquivir
+CAROMAR
+Amisa Solution, S.L.
+Angal Telecomunicaciones, S.L.
